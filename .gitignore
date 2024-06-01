@@ -1,0 +1,4 @@
+.idea
+venv
+__pycashe__
+.pytest_cashe
